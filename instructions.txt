@@ -1,0 +1,48 @@
+# Butterfly Project WSL Setup Instructions
+
+## 0. Managing WSL
+
+- To launch WSL (Ubuntu):
+  Press Windows key → type "Ubuntu" → Enter
+  OR run `wsl` from CMD/PowerShell
+
+  wsl -d Ubuntu
+
+- To exit WSL:
+  Type `exit` inside the Ubuntu shell
+
+- To list all installed/running WSL instances:
+  Run `wsl -l -v` from PowerShell
+
+-------------------------------------------
+
+1. Enable WSL and install Ubuntu (skip if already done):
+   wsl --install
+
+2. Update packages:
+   sudo apt update && sudo apt upgrade -y
+
+3. Install required tools:
+   sudo apt install build-essential libopenmpi-dev openmpi-bin libmetis-dev git
+
+4. Install VS Code and WSL extension:
+   https://code.visualstudio.com/
+   Install "Remote - WSL" extension in VS Code
+
+5. Launch project:
+   cd ~
+   mkdir butterfly_project && cd butterfly_project
+   code .
+
+6. Create folders:
+   mkdir src include data results partitioner
+   touch Makefile README.md
+
+7. Test setup:
+   g++ --version
+   mpicc --version
+   ldconfig -p | grep metis
+
+8. Optional: Compile test program
+   mpic++ -fopenmp src/test.cpp -o test
+   mpirun -np 2 ./test
