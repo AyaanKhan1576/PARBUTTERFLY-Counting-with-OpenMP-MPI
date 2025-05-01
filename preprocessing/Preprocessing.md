@@ -7,9 +7,8 @@
 ## 0 Quick build & run
 
 ```bash
-# install once (WSL Ubuntu/Debian)
-sudo apt update
-sudo apt install -y build-essential g++ libmetis-dev metis
+# Download dataset and add it to data folder
+http://konect.cc/networks/dblp-author/
 
 # inside project-root
 g++ -std=c++17 -O3 preprocessing/normalize_bipartite.cpp -o normalize
