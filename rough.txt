@@ -1,0 +1,5 @@
+http://konect.cc/networks/
+http://konect.cc/networks/discogs_affiliation/
+http://konect.cc/networks/dblp-author/
+http://konect.cc/networks/github/
+http://konect.cc/networks/orkut-groupmemberships/

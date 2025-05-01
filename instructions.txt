@@ -1,5 +1,9 @@
 # Butterfly Project WSL Setup Instructions
 
+mpic++ -fopenmp src/test.cpp -o test
+mpirun -np 2 ./test
+
+
 ## 0. Managing WSL
 
 - To launch WSL (Ubuntu):
