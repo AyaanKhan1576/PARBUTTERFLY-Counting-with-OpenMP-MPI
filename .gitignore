@@ -1,5 +1,13 @@
 normalize
 preprocess
 test
-/processed
-/data
+out.dblp-author
+graph.metis
+map_L.txt
+map_R.txt
+normalized_edges.txt
+part.4
+subgraph_0.txt
+subgraph_1.txt
+subgraph_2.txt
+subgraph_3.txt
