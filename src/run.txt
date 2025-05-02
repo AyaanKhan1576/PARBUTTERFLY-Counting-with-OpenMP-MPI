@@ -1,0 +1,7 @@
+sequential:
+g++ -std=c++17 -O3 src/butterfly_sequential.cpp -o butter_seq
+./butter_seq processed/subgraph_0.txt 1953085 --rank degree --agg hash
+
+parallel:
+g++ -std=c++17 -O3 -fopenmp src/butterfly_parallel.cpp -o butter_par
+./butter_par processed/subgraph_0.txt 1953085 --rank degree --agg hash --threads 4
