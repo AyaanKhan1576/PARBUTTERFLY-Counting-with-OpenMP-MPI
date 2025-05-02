@@ -11,3 +11,5 @@ subgraph_0.txt
 subgraph_1.txt
 subgraph_2.txt
 subgraph_3.txt
+*.exe
+butter_par
