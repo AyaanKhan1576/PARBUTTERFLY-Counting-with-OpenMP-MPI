@@ -1,3 +1,24 @@
+butter.cpp:
+g++ -std=c++17 -O3 src/butter.cpp -fopenmp -o butter
+
+GENERAL RUN:
+ *   ./butter --mode seq|par <edge_file> <L_size> \
+ *          --rank id|degree|degcore|random[:seed] \
+ *          --agg  hash|sort|batch|histo \
+ *          [--threads N]           (only for --mode par)
+
+SERIAL RUN:
+./butter --mode seq processed/subgraph_0.txt 1953085 --rank degree --agg sort 
+
+PARALLEL RUN:
+./butter --mode par processed/subgraph_0.txt 1953085 --rank degree --agg sort --threads 4
+
+
+
+
+
+OUTDATED NOW:
+
 sequential:
 g++ -std=c++17 -O3 src/butterfly_sequential.cpp -o butter_seq
 ./butter_seq processed/subgraph_0.txt 1953085 --rank degree --agg hash
