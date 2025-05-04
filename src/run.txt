@@ -1,5 +1,21 @@
 DO THIS AFTER PREPROCESSING DATA. REFER TO preprocessing/Preprocessing.md
 
+MPI + OPENMP VERSION:
+
+Only OpenMP:
+g++ -std=c++17 -O3 src/butter_core.cpp -fopenmp -o butter_core
+./butter_core --mode par --file processed/subgraph_0.txt --L 1953085 --rank degree --agg hash --threads 4
+./butter_core --mode seq --file processed/subgraph_0.txt --L 1953085 --rank degree --agg hash 
+
+MPI + OpenMP run:
+mpic++ -std=c++17 -O3 src/butter_mpi.cpp -fopenmp -o butter_mpi
+mpirun -np 4 ./butter_mpi --mode par --subgraph_dir ./processed --L 1953085 --rank degree --agg hash --threads 2
+mpirun -np 4 ./butter_mpi --mode seq --subgraph_dir ./processed --L 1953085 --rank degree --agg hash 
+
+
+
+OPENMP VERSION:
+
 butter.cpp:
 g++ -std=c++17 -O3 src/butter.cpp -fopenmp -o butter
 
