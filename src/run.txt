@@ -1,3 +1,5 @@
+DO THIS AFTER PREPROCESSING DATA. REFER TO preprocessing/Preprocessing.md
+
 butter.cpp:
 g++ -std=c++17 -O3 src/butter.cpp -fopenmp -o butter
 
