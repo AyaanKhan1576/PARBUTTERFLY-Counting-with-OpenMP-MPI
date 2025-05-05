@@ -13,34 +13,6 @@ mpirun -np 4 ./butter_mpi --mode par --subgraph_dir ./processed --L 1953085 --ra
 mpirun -np 4 ./butter_mpi --mode seq --subgraph_dir ./processed --L 1953085 --rank degree --agg hash 
 
 
-
-OPENMP VERSION:
-
-butter.cpp:
-g++ -std=c++17 -O3 src/butter.cpp -fopenmp -o butter
-
-GENERAL RUN:
- *   ./butter --mode seq|par <edge_file> <L_size> \
- *          --rank id|degree|degcore|random[:seed] \
- *          --agg  hash|sort|batch|histo \
- *          [--threads N]           (only for --mode par)
-
-SERIAL RUN:
-./butter --mode seq processed/subgraph_0.txt 1953085 --rank degree --agg sort 
-
-PARALLEL RUN:
-./butter --mode par processed/subgraph_0.txt 1953085 --rank degree --agg sort --threads 4
-
-
-
-
-
-OUTDATED NOW:
-
-sequential:
-g++ -std=c++17 -O3 src/butterfly_sequential.cpp -o butter_seq
-./butter_seq processed/subgraph_0.txt 1953085 --rank degree --agg hash
-
-parallel:
-g++ -std=c++17 -O3 -fopenmp src/butterfly_parallel.cpp -o butter_par
-./butter_par processed/subgraph_0.txt 1953085 --rank degree --agg hash --threads 4
+in case it deosnt work: ("There are not enough slots available in the system ....")
+mpirun --oversubscribe -np 4 ./butter_mpi --mode par --subgraph_dir ./processed --L 1953085 --rank degree --agg hash --threads 2
+mpirun --oversubscribe -np 4 ./butter_mpi --mode seq --subgraph_dir ./processed --L 1953085 --rank degree --agg hash 

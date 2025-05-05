@@ -284,6 +284,13 @@ uint64_t count_par(
         return hash % nT;
     };
 
+    // Peeling step: sort R-nodes by increasing degree
+    std::vector<size_t> r_order(G.R2L.size());
+    std::iota(r_order.begin(), r_order.end(), 0);
+    std::sort(r_order.begin(), r_order.end(), [&](size_t a, size_t b) {
+        return G.R2L[a].size() < G.R2L[b].size();
+    });
+
     std::atomic<bool> critical_error_flag = false;
 
 #pragma omp parallel num_threads(nT)
@@ -292,11 +299,12 @@ uint64_t count_par(
         auto& A = local[tid];
 
         try {
-            // *** Iterate over ALL R-nodes present in this (sub)graph G ***
+            // *** Iterate over R-nodes in peeling order ***
 #pragma omp for schedule(dynamic, 64) nowait
-            for (size_t rid = 0; rid < G.R2L.size(); ++rid) { // Loop 0 to size-1
+            for (size_t idx = 0; idx < r_order.size(); ++idx) {
                 if (critical_error_flag.load()) continue;
 
+                size_t rid = r_order[idx];
                 const auto& aSet = G.R2L[rid];
                 if (aSet.size() < 2) continue;
 
