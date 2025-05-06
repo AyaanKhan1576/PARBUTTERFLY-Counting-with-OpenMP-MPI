@@ -1,0 +1,37 @@
+#!/bin/bash
+
+# Download dataset and add it to data folder and then run this bash script. 
+g++ -std=c++17 -O3 preprocessing/normalize_bipartite.cpp -o normalize
+g++ -std=c++17 -O3 preprocessing/preprocess_and_partition.cpp -lmetis -o preprocess
+./normalize data/out.dblp-author processed
+./preprocess processed/normalized_edges.txt 4 processed
+
+g++ -std=c++17 -O3 src/butter_core.cpp -fopenmp -o butter_core
+./butter_core --mode par --file processed/subgraph_0.txt --L 1953085 --rank degree --agg hash --threads 4
+./butter_core --mode seq --file processed/subgraph_0.txt --L 1953085 --rank degree --agg hash 
+
+mpic++ -std=c++17 -O3 src/butter_mpi.cpp -fopenmp -o butter_mpi
+mpirun -np 4 ./butter_mpi --mode par --subgraph_dir ./processed --L 1953085 --rank degree --agg hash --threads 2
+mpirun -np 4 ./butter_mpi --mode seq --subgraph_dir ./processed --L 1953085 --rank degree --agg hash
+
+export OMP_NUM_THREADS=1
+for i in {1..20}
+do
+  { time ./butter_core; } >> dataOpenMPSeq.txt  2>&1;
+done
+
+for i in {1..20}
+do
+  { time mpirun -perhost 2 -np 4 ./butter_mpi; } >> dataOpenMPMPISeq.txt  2>&1;
+done
+
+export OMP_NUM_THREADS=4
+for i in {1..20}
+do
+  { time ./butter_core; } >> dataOpenMPPara.txt  2>&1;
+done
+
+for i in {1..20}
+do
+  { time mpirun -perhost 2 -np 4 ./butter_mpi; } >> dataOpenMPMPIPara.txt  2>&1;
+done
