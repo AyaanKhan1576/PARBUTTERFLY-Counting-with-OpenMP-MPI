@@ -1,3 +1,7 @@
+COMBINED RUNNING:
+./starter_code
+
+----------------------------------------------------------------------------
 DO THIS AFTER PREPROCESSING DATA. REFER TO preprocessing/Preprocessing.md
 
 MPI + OPENMP VERSION:
