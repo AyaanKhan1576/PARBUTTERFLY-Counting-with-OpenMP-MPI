@@ -1,0 +1,74 @@
+==============================
+RELAUNCHING MPI + OPENMP CLUSTER
+==============================
+
+✔️ AUTHOR: Ayaan  
+✔️ PURPOSE: To demo a multi-node MPI + OpenMP hybrid cluster using Docker for butterfly counting  
+✔️ LOCATION: /home/ayaan/Desktop/Beowulf-Cluster-Using-Docker  
+✔️ SHARED VOLUME: /home/ayaan/Desktop/storage (mounted in each container as /home/storage)
+
+------------------------------
+STEP 0: (Optional) CLEAN UP PREVIOUS CLUSTER
+------------------------------
+cd ~/Desktop/Beowulf-Cluster-Using-Docker
+./deletecluster.sh 4    # Replace 4 with your node count
+
+------------------------------
+STEP 1: START THE CLUSTER
+------------------------------
+cd ~/Desktop/Beowulf-Cluster-Using-Docker
+./makecluster.sh 4      # Replace 4 with number of nodes (e.g., 4 nodes)
+
+------------------------------
+STEP 2: INSTALL DEPENDENCIES ON EACH NODE
+------------------------------
+For EACH NODE (node1, node2, node3, node4):
+
+docker exec -it nodeX bash
+apt-get update
+apt-get install -y openmpi-bin libopenmpi-dev libmetis-dev build-essential g++ cmake
+which orted       # ✅ Should return: /usr/bin/orted
+exit
+
+------------------------------
+STEP 3: ENSURE CODE & DATA ARE PRESENT
+------------------------------
+From host machine:
+
+ls ~/Desktop/storage
+
+# This should contain:
+# - starter_code.sh
+# - data/out.dblp-author
+# - src/
+# - preprocessing/
+# - processed/ (optional)
+
+------------------------------
+STEP 4: ENTER NODE1 AND SET ENVIRONMENT
+------------------------------
+docker exec -it node1 bash
+cd /home/storage
+
+export OMPI_ALLOW_RUN_AS_ROOT=1
+export OMPI_ALLOW_RUN_AS_ROOT_CONFIRM=1
+
+------------------------------
+STEP 5: RUN THE FULL SCRIPT
+------------------------------
+./starter_code.sh
+
+# This runs preprocessing, OpenMP-only tests, and distributed MPI + OpenMP tests.
+# Output and timings will be saved to:
+# - dataOpenMPSeq.txt
+# - dataOpenMPPara.txt
+# - dataOpenMPMPISeq.txt
+# - dataOpenMPMPIPara.txt
+
+------------------------------
+STEP 6: SHUT DOWN AFTER VIVA
+------------------------------
+cd ~/Desktop/Beowulf-Cluster-Using-Docker
+./deletecluster.sh 4
+
+# Your /home/ayaan/Desktop/storage folder remains intact.

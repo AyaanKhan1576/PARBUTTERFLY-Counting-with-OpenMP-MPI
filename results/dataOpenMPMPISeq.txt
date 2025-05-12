@@ -1,0 +1,480 @@
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.007s
+user	0m0.000s
+sys	0m0.001s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.006s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.006s
+user	0m0.000s
+sys	0m0.006s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.006s
+user	0m0.000s
+sys	0m0.001s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.001s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.004s
+user	0m0.000s
+sys	0m0.004s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.005s
+user	0m0.005s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.004s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.004s
+user	0m0.004s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.007s
+user	0m0.000s
+sys	0m0.001s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.004s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.009s
+user	0m0.009s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.005s
+user	0m0.005s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.005s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.012s
+user	0m0.011s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.002s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.001s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+mpirun: Error: unknown option "-perhost"
+Type 'mpirun --help' for usage.
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.001s

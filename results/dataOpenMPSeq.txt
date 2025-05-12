@@ -1,0 +1,480 @@
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.005s
+user	0m0.004s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.001s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.005s
+user	0m0.000s
+sys	0m0.001s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.001s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.003s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.003s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.003s
+user	0m0.001s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.004s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.002s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+[0] Error parsing arguments: Missing required argument: --L <L_size>
+[0] Usage: ./butter --file <edge_file> --L <L_size> [--mode seq|par] [--rank ...] [--agg ...] [--threads N]
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
