@@ -1,4 +1,3 @@
-```markdown
 # Pre-processing & Partitioning Workflow  
 *(input: **DBLP-author** raw edge list → output: balanced per-rank sub-graphs)*
 
@@ -6,7 +5,6 @@
 
 ## 0 Quick build & run
 
-```bash
 # Download dataset and add it to data folder
 http://konect.cc/networks/dblp-author/
 
@@ -19,7 +17,7 @@ g++ -std=c++17 -O3 preprocessing/preprocess_and_partition.cpp -lmetis -o preproc
 
 # step-2  build CSR, run METIS, dump per-rank sub-graphs (example k = 8)
 ./preprocess processed/normalized_edges.txt 4 processed
-```
+
 
 Outputs appear in **`processed/`**:
 ```
